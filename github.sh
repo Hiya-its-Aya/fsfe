@@ -1,3 +1,3 @@
 #! /usr/bin/bash
-
-git pull origin main 
+cd /var/www/app/
+git pull origin master --ff-only 
