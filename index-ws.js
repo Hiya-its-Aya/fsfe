@@ -59,8 +59,6 @@ wss.broadcast = (data) => {
   });
 }
 
-
-
 // end of websocket implementation
 // begin database implementation
 
